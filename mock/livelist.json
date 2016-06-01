@@ -1,0 +1,28 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img": "/webapp/images/img1.jpg",
+    "title": "阿伦·艾弗森"
+  }, {
+    "img": "/webapp/images/img2.jpg",
+    "title": "迈克尔·乔丹"
+  }, {
+    "img": "/webapp/images/img3.jpg",
+    "title": "勒布朗·詹姆斯"
+  }, {
+    "img": "/webapp/images/img4.jpg",
+    "title": "凯文·杜兰特"
+  }, {
+    "img": "/webapp/images/img5.jpg",
+    "title": "科比·布莱恩特"
+  }, {
+    "img": "/webapp/images/img6.jpg",
+    "title": "克里斯·保罗"
+  }, {
+    "img": "/webapp/images/img7.jpg",
+    "title": "卡梅隆·安东尼"
+  }]
+}

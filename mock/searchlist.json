@@ -1,0 +1,27 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img": "/webapp/images/img1.jpg",
+    "title": "阿伦·艾弗森",
+    "desc": "艾弗森:掘金战骑士将非常艰苦",
+    "isFollow": true
+  }, {
+    "img": "/webapp/images/img2.jpg",
+    "title": "迈克尔·乔丹",
+    "desc": "乔丹:我将与黄蜂的将士们共进退",
+    "isFollow": false
+  }, {
+    "img": "/webapp/images/img3.jpg",
+    "title": "勒布朗·詹姆斯",
+    "desc": "詹姆斯:我的目标只有一个，就是夺取总冠军",
+    "isFollow": true
+  }, {
+    "img": "/webapp/images/img4.jpg",
+    "title": "凯文·杜兰特",
+    "desc": "杜兰特:我很享受在雷霆的时光",
+    "isFollow": false
+  }]
+}

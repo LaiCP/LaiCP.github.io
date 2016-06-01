@@ -1,0 +1,12 @@
+<div class="m-menu">
+  <header>
+    <img src="/webapp/images/phone.jpg">
+  </header>
+  <h2>hey!man!</h2>
+  <h3>这个家伙很懒，什么也没留下</h3>
+  <ul>
+    <li action-type="goto.home" data-tag="live">实力球星</li>
+    <li action-type="goto.home" data-tag="life">篮球新闻</li>
+    <li action-type="goto.home" data-tag="beauty">篮球装备</li>
+  </ul>
+</div>

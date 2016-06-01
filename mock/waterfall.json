@@ -1,0 +1,27 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+      "picUrl": "/webapp/images/new1.jpg",
+      "width": 522,
+      "height": 783,
+      "title": "曝魔术即将敲定前步行者铁帅 灰熊或遭截胡"
+  },{
+      "picUrl": "/webapp/images/new2.jpg",
+      "width": 550,
+      "height": 786,
+      "title": "曝尼克斯顶薪追黄蜂SF 他到来将影响甜瓜波神"
+  },{
+      "picUrl": "/webapp/images/new3.jpg",
+      "width": 535,
+      "height": 800,
+      "title": "国王老帅将接受喉癌治疗 勇者!他2次战胜癌症"
+  },{
+      "picUrl": "/webapp/images/new4.jpg",
+      "width": 578,
+      "height": 504,
+      "title": "接班科比or加入勇士? 美媒列詹皇5大潜在下家"
+  }]
+}
